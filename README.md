@@ -1,2 +1,2 @@
-# Projet d'un slider en REACT pour apprendre à manipuler les composants + Ajout de setTimeout pour gérer le spam 
-<img src="">
+# Projet d'un slider en REACT + Gestion du spam via setTimeout
+<img src="https://github.com/leoPinchon/sliderReact/blob/main/src/apercu.png">
